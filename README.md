@@ -1,11 +1,10 @@
 # Awesome Hardhat [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome list of Hardhat plugins, resources and more.
-
-If you want to contribute to this list (please do), send me a pull request.
-
-
 ![hardhat-icon](https://hardhat.org/_next/static/media/she-head.a8330420.svg)
+
+Awesome list of hardhat plugins, resources and more.
+
+> Contributions welcome and very much appreciated! Create a PR to add your links to this list.
 
 ## Table of Contents
 
