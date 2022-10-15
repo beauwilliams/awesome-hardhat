@@ -25,6 +25,7 @@ Awesome list of hardhat plugins, resources and more.
 - [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy) - Hardhat deployment plugin.
 - [Hardhat Solhint](https://hardhat.org/hardhat-runner/plugins/nomiclabs-hardhat-solhint) - Hardhat plugin for integration with solhint linter.
 - [Hardhat Circom](https://github.com/projectsophon/hardhat-circom) - Hardhat plugin to integrate Circom and SnarkJS into your build process.
+- [Hardhat Nodemon](https://github.com/Pradeep-selva/hardhat-nodemon) - A Hardhat plugin to automatically test and compile code.
 
 
 <a name="starters" />
